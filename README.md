@@ -1,5 +1,6 @@
-## Next.js App Router Course - Starter
+# サイト情報
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
-
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+- **サイトのURL**: [こちら](https://nextjs-dashboard-bice-nu-23.vercel.app/)
+- **テストアカウント**:
+    - メールアドレス: user@nextmail.com
+    - パスワード: 123456
